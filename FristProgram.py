@@ -1,3 +1,5 @@
-# name = input("name: ")
-# print(name) 
+# type Conversion
+a = 3.14
+b = str(a)
 
+print(type(a))
