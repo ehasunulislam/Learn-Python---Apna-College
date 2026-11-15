@@ -11,4 +11,4 @@ print(len(name))
 # Write a program to find occurrence of "$" in a string
 
 str = "How many num$er"
-print(str.count("$"))
+print(str.count("$"))  
