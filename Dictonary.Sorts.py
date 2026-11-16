@@ -4,8 +4,8 @@ data = {
     "is_adult": True
 }
 
-data["name"] = "goa"
-data["bou"] = True
-# print(data)
+
+print(type(data))
 
 
+ 
